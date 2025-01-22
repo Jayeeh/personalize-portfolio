@@ -557,9 +557,10 @@ article:hover {
 }
 
 .project-img-2 {
-  width: 70%;
-  height: 70%;
-  margin-bottom: 1rem;
+  width: 25%;
+  height: 25%;
+  margin-bottom: .1rem;
+  
 }
 
 .project-title {
